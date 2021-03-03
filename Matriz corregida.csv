@@ -1,0 +1,48 @@
+Individuo;Talla;Arrecife;Ubicacion ;Actividad ;Coloracion;Intensidad ;Movimientos ;Asociacion
+1;Mediano;Muelle;Planicie ;Alerta;1;2;Recto;Solitario 
+1;Mediano;Muelle;Planicie ;Ataque;0;0;Posicion S;Solitario 
+1;Mediano;Muelle;Planicie ;Busqueda;1;1;Posicion S;Solitario 
+1;Mediano;Muelle;Planicie ;Busqueda;1;2;Recto;Solitario 
+2;Mediano;Playa Blanca;Talud;Busqueda;0;0;Recto;Heteroespecifico
+3;Mediano;Playa Blanca;Talud;Busqueda;1;1;Posicion S;Solitario
+4;Mediano;Playa Blanca;Talud;Busqueda;1;1;Recto;Solitario
+5;Mediano;Playa Blanca;Talud;Busqueda;0;0;Recto;Solitario
+6;Grande;Playa Blanca;Talud;Busqueda;0;0;Recto;Conespecifico
+7;Pequeño;Playa Blanca;Talud;Busqueda;0;0;Recto;Conespecifico
+7;Pequeño;Playa Blanca;Talud;Alerta;1;2;Posicion S;Conespecifico
+8;Grande ;Muelle;Planicie;Busqueda;1;1;Recto;Solitario
+8;Grande ;Muelle;Planicie;Busqueda;1;2;Recto;Solitario
+9;Mediano;Azufrada;Talud;Ataque;0;0;Posicion S;Solitario
+10;Grande;Azufrada;Talud;Busqueda;0;0;Posicion S;Conespecifico 
+11;Mediano;Playa Blanca;Talud;Busqueda;0;0;Ondulacion ;Conespecifico 
+12;Mediano;Playa Blanca;Talud;Busqueda;0;0;Ondulacion ;Solitario
+12;Mediano;Playa Blanca;Talud;Busqueda;1;1;Recto;Conespecifico 
+13;Mediano;Playa Blanca;Talud;Busqueda;0;0;Ondulacion ;Conespecifico 
+13;Mediano;Playa Blanca;Talud;Busqueda;0;0;Recto;Solitario
+13;Mediano;Playa Blanca;Talud;Ataque;0;0;Posicion S;Conespecifico 
+14;Mediano;Playa Blanca;Talud;Busqueda;0;0;Ondulacion ;Conespecifico 
+15;Mediano;Playa Blanca;Talud;Busqueda;0;0;Ondulacion ;Solitario
+16;Mediano;Playa Blanca;Talud;Busqueda;0;0;Ondulacion ;Conespecifico 
+17;Mediano;Playa Blanca;Talud;Busqueda;0;0;Ondulacion ;Solitario
+17;Mediano;Playa Blanca;Talud;Busqueda;1;1;Ondulacion ;Solitario
+17;Mediano;Playa Blanca;Talud;Ataque;0;0;Repliegue S;Solitario
+18;Pequeño;Playa Blanca;Talud;Busqueda;1;1;Recto;Solitario
+19;Mediano ;Playa Blanca;Talud;Busqueda;0;0;Recto;Solitario
+20;Mediano ;Playa Blanca;Talud;Busqueda;0;0;Recto;Solitario
+21;Mediano ;Playa Blanca;Talud;Busqueda;0;0;Ondulacion ;Solitario
+21;Mediano ;Playa Blanca;Talud;Alerta;0;0;Ondulacion ;Solitario
+22;Mediano;Playa Blanca;Talud;Busqueda;0;0;Ondulacion ;Conespecifico
+23;Mediano;Muelle;Planicie;Busqueda;0;0;Ondulacion ;Solitario 
+24;Mediano;Muelle;Planicie;Alerta;1;2;Posicion S;Solitario 
+24;Mediano;Muelle;Planicie;Busqueda;1;1;Ondulacion ;Solitario 
+24;Mediano;Muelle;Planicie;Busqueda;1;2;Repliegue S;Solitario 
+24;Mediano;Muelle;Planicie;Alerta;1;2;Posicion S;Solitario 
+25;Mediano;Playa Blanca;Talud;Ataque;1;1;Recto;Solitario 
+25;Mediano;Playa Blanca;Talud;Ataque;0;0;Repliegue S;Conespecifico 
+25;Mediano;Playa Blanca;Talud;Busqueda;0;0;Recto;Solitario 
+26;Mediano;Playa Blanca;Talud;Busqueda;0;0;Ondulacion ;Solitario
+27;Mediano;Playa Blanca;Talud;Ataque;0;0;Repliegue S;Solitario
+28;Mediano;Playa Blanca;Talud;Busqueda;0;0;Recto ;Solitario
+29;Mediano;Muelle;Planicie ;Alerta ;1;1;Recto;Solitario
+29;Mediano;Muelle;Planicie ;Busqueda;0;0;Recto;Solitario
+29;Mediano;Muelle;Planicie ;Alerta;1;1;Recto;Solitario
