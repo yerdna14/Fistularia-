@@ -7,7 +7,7 @@ Sinónimo: fistulario.
 
 Si quieren ver los datos con visualizaciones interesantes de estos pesces este es el lugar indicado. 2023
 
-En este 2024 vamos a poner mas datos.
+En este 2024 vamos a poner mas datos. Pero Ale esta lejotes
 
 
 
